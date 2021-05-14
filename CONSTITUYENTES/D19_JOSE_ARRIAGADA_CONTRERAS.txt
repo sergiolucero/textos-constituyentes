@@ -1,0 +1,28 @@
+('La constitución es la ley fundamental de un Estado, define cómo este se '
+ 'organiza y la forma en que se gobierna, es decir, es el texto en el que una '
+ 'comunidad organiza su sistema económico, político y jurídico. Establece los '
+ 'principios que sirven de base para dictar las leyes y otras normas, de modo '
+ 'que estas no puedan ir en contra de la Constitución. Y lo más importante: '
+ 'establece los derechos básicos y garantías de cada persona. El poder '
+ 'constituyente es la facultad que reside en el pueblo o nación, es decir, en '
+ 'todas las personas que habitan el territorio de nuestro país, de establecer '
+ 'la forma en que nos organizamos como sociedad, y de definir sus principios '
+ 'fundamentales y las instituciones que nos regirán. Es importante recalcar '
+ 'que es el pueblo quien tiene el poder de darle forma a la sociedad en la que '
+ 'vivimos, por lo que las autoridades contempladas en la constitución se deben '
+ 'al pueblo que las elige. Yo, José Antonia Arriagada Contreras, cédula de '
+ 'Identidad 11.896.687-2, miembro del Partido Ecologista Verde, Pre Candidato '
+ 'al cargo de Convencional Constituyente en el distrito electoral 19, presento '
+ 'mi programa de trabajo que será: Aportar con todos mis conocimientos, para '
+ 'la redacción de la nueva Constitución Política de Chile, en los principios '
+ 'constitucionales el los siguientes temas entre otros: Igualdad. Libertad '
+ 'Democracia. Estado de derecho Igualdad de genero Plurinacionalidad. Derechos '
+ 'y deberes fundamentales, derechos humanos. Derechos civiles y derechos '
+ 'sociales. Derecho a la Educación. Derecho a la salud. Derecho al trabajo '
+ 'digno y jubilaciones dignas. Derecho a la seguridad social y laboral. '
+<<<<<<< HEAD
+ 'Derecho a la protección del medio ambiente. Derechos a los niños, niñas y '
+=======
+ 'Derecho a la protección del medioambiente. Derechos a los niños, niñas y '
+>>>>>>> a3d96fb825effd141b965e8a610db26eae41ffc9
+ 'adolecentes. JoséAntonia Arriagada Contreras 11.896.687-2 C')
